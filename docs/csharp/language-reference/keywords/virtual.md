@@ -9,7 +9,7 @@ f1_keywords:
 - virtual_CSharpKeyword
 - virtual
 helpviewer_keywords:
-- virtual keyword [C#]
+- virtual keyword [C#] 
 ms.assetid: 5da9abae-bc1e-434f-8bea-3601b8dcb3b2
 caps.latest.revision: 
 author: BillWagner
